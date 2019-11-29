@@ -1,0 +1,27 @@
+{
+    "name": "1122",
+    "dependencies": {
+        "1105": "github:15416/pxt-comment2#22f34ca0c951c0ddda57adbe97394d4453760f4f",
+        "core": "*",
+        "radio": "*",
+        "Magibit": "github:imagimaker/pxt-imagimaker#v1.1.0",
+        "pxt-kitronik-servo-lite": "github:kitronikltd/pxt-kitronik-servo-lite#v1.0.5"
+    },
+    "description": "",
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md"
+    ],
+    "preferredEditor": "tsprj",
+    "testFiles": [
+        "test.ts"
+    ],
+    "targetVersions": {
+        "branch": "v2.1.28",
+        "tag": "v2.1.28",
+        "commits": "https://github.com/microsoft/pxt-microbit/commits/5f2d4395214120979636f8ba9f87264cc662d1a9",
+        "target": "2.1.28",
+        "pxt": "5.28.24"
+    }
+}
